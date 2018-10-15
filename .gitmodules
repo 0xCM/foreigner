@@ -1,0 +1,12 @@
+[submodule "openblas"]
+	path = openblas
+	url = https://github.com/xianyi/OpenBLAS.git
+[submodule "z3"]
+	path = z3
+	url = https://github.com/Z3Prover/z3.git
+[submodule "llvm"]
+	path = llvm
+	url = https://github.com/llvm-mirror/llvm.git
+[submodule "softfloat"]
+	path = softfloat
+	url = https://github.com/ucb-bar/berkeley-softfloat-3.git
